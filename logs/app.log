@@ -1,0 +1,52 @@
+14/11/2025 00:09:59 | INFO | Starting training pipeline
+14/11/2025 00:09:59 | INFO | Loading data from C:\Users\tumma\Desktop\TwitterSentimentApp\data\Tweets.csv
+14/11/2025 00:09:59 | INFO | Running EDA
+14/11/2025 00:10:00 | INFO | EDA complete
+14/11/2025 00:10:00 | INFO | Starting preprocessing
+14/11/2025 00:10:00 | INFO | Preprocessing complete
+14/11/2025 00:10:00 | INFO | Training model (TF-IDF + LogisticRegression)
+14/11/2025 00:10:04 | INFO | Saved model to C:\Users\tumma\Desktop\TwitterSentimentApp\models\model.pkl and vectorizer to C:\Users\tumma\Desktop\TwitterSentimentApp\models\vectorizer.pkl
+14/11/2025 00:10:04 | INFO | Training pipeline finished
+14/11/2025 00:10:17 | INFO | Loaded model and vectorizer
+14/11/2025 00:10:22 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.9122 | text=My flight was amazing! Great service from the airline.
+14/11/2025 00:15:38 | INFO | Loaded model and vectorizer
+14/11/2025 00:15:41 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.9122 | text=My flight was amazing! Great service from the airline.
+14/11/2025 00:25:29 | INFO | Loaded model and vectorizer
+14/11/2025 00:26:14 | INFO | Loaded model and vectorizer
+14/11/2025 00:26:49 | INFO | Loaded model and vectorizer
+14/11/2025 00:27:31 | INFO | Loaded model and vectorizer
+14/11/2025 00:27:34 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.9122 | text=My flight was amazing! Great service from the airline.
+14/11/2025 00:38:16 | INFO | Loaded model and vectorizer
+14/11/2025 00:38:20 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.9122 | text=My flight was amazing! Great service from the airline.
+14/11/2025 00:40:18 | INFO | Loaded model and vectorizer
+14/11/2025 00:40:33 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.5388 | text=very good flight experience
+
+14/11/2025 00:41:01 | INFO | PREDICTION | model=logreg_tfidf | label=negative | confidence=0.9367 | text=worst experience ever
+
+14/11/2025 00:41:28 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.5257 | text=i had best lunch in virginamerica flight
+14/11/2025 00:41:47 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.8285 | text=the best flight experience
+
+14/11/2025 00:42:04 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.9122 | text=My flight was amazing! Great service from the airline.
+14/11/2025 00:42:31 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.6709 | text=My flight was amazing! 
+14/11/2025 00:42:35 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.8531 | text=Great service from the airline.
+14/11/2025 11:06:28 | INFO | Loaded model and vectorizer
+14/11/2025 11:06:36 | INFO | PREDICTION | model=logreg_tfidf | label=neutral | confidence=0.5171 | text=I ❤️ flying
+14/11/2025 11:07:00 | INFO | PREDICTION | model=logreg_tfidf | label=neutral | confidence=0.4633 | text=Somewhere celebrating life
+14/11/2025 11:07:46 | INFO | PREDICTION | model=logreg_tfidf | label=negative | confidence=0.7915 | text=I flew from NYC to SFO last week and couldn't fully sit in my seat due to two large gentleman on either side of me. HELP!
+14/11/2025 11:07:55 | INFO | PREDICTION | model=logreg_tfidf | label=negative | confidence=0.7718 | text=I flew from NYC to SFO last week and couldn't fully sit in my seat due to two large gentleman on either side of me.
+
+14/11/2025 11:30:20 | INFO | Loaded model and vectorizer
+14/11/2025 11:31:01 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.9122 | text=My flight was amazing! Great service from the airline.
+14/11/2025 11:39:05 | INFO | Loaded model and vectorizer
+14/11/2025 11:39:09 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.9122 | text=My flight was amazing! Great service from the airline.
+14/11/2025 11:42:04 | INFO | Loaded model and vectorizer successfully.
+14/11/2025 11:42:55 | INFO | Loaded model and vectorizer successfully.
+14/11/2025 11:43:17 | INFO | Loaded model and vectorizer successfully.
+14/11/2025 11:45:37 | INFO | Loaded model and vectorizer successfully.
+14/11/2025 11:45:51 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.9122 | text=My flight was amazing! Great service from the airline.
+14/11/2025 11:45:56 | WARNING | Non-English text detected: Nā vimānaṁ adbhutaṅgā undi! Eyir‌lain nuṇḍi goppa sēva.
+14/11/2025 11:48:46 | INFO | Loaded model and vectorizer
+14/11/2025 11:50:06 | INFO | Loaded model and vectorizer
+14/11/2025 11:50:10 | INFO | PREDICTION | model=logreg_tfidf | label=positive | confidence=0.9122 | text=My flight was amazing! Great service from the airline.
+14/11/2025 11:50:27 | INFO | PREDICTION | model=logreg_tfidf | label=neutral | confidence=0.5151 | text=Nā vimānaṁ adbhutaṅgā undi! Eyir‌lain nuṇḍi goppa sēva.
+14/11/2025 11:50:41 | INFO | PREDICTION | model=logreg_tfidf | label=neutral | confidence=0.5116 | text=నా విమానం అద్భుతంగా ఉంది! ఎయిర్‌లైన్ నుండి గొప్ప సేవ.

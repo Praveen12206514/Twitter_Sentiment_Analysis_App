@@ -1,0 +1,8 @@
+{
+  "rows": 14640,
+  "sentiment_counts": {
+    "negative": 9178,
+    "neutral": 3099,
+    "positive": 2363
+  }
+}
